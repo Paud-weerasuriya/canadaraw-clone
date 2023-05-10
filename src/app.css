@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.card {
+		@apply bg-white text-gray-700
+        w-72 min-h-[10rem]
+        shadow-lg overflow-hidden;
+	}
+	.product-title {
+		@apply font-semibold text-lg
+        overflow-ellipsis overflow-hidden whitespace-nowrap;
+	}
+	.button-primary {
+		@apply text-black font-bold
+        p-5;
+	}
+}
