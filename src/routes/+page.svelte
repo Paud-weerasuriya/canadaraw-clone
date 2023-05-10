@@ -2,15 +2,15 @@
 <section class="pb-20">
     <div class="flex flex-col">
         <div class="absolute bottom-0 left-0 right-0 px-4 py-2 bg-gray-800 opacity-70">
-        <h1 class="text-5xl text-white font-bold text-center mb-10">Fresh from Ontario</h1>     
+        <h1 class="text-7xl text-white font-bold text-center mb-10">Fresh from Ontario</h1>     
         <p class="mt-2 text-lg text-gray-300 text-center">Canada Raw is a manufacturer of 100% safe, government-inspected and sustainably <br>sourced raw pet food - providing healthier living for your best friend</p>
 
             <div class="flex relative py-10 justify-center">
                 <div class="flex absolute items-center">
-                    <button class="bg-yellow-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                    <button class="bg-yellow-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-full">
                         Shop Products
                     </button>
-                    <button class="bg-lime-900 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ml-4">
+                    <button class="bg-lime-900 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-full ml-4">
                         Learn More
                     </button>
                 </div>
