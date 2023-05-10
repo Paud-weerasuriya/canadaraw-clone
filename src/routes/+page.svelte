@@ -160,7 +160,7 @@
     </div>
   </div>
 
-  
+
   <div class="bg-gray-100 flex items-center justify-center gap-10">
     <div class="card">
         <img class="w-full h-full object-cover" src="https://post.healthline.com/wp-content/uploads/2020/06/dog-food-732x549-thumbnail-732x549.jpg" />
@@ -249,4 +249,41 @@
     </button>
   </div>
   
+  <div class="flex bg-black">
+    <div class="w-1/3 p-4">
+        <div class=" pb-10 relative" >  
+            <div class="flex items-center max-w-screen-xl mx-auto space-x-25 space-y-20">
+                <div class="flex flex-col space-y-10">
+                    <p class="text-yellow-600 mt-10 tracking-widest">
+                        Raw Pet Food Made Easy</p>
+                    <h1 class="text-5xl font-bold font-heading text-white leading-normal">Pickup Or<br>Delivered Fresh To<br>Your Door</h1>
+                    <p class="text-white">We make it easy to get farm-fresh premium, raw pet food. Simply order online and choose pickup location to pick up from our Markham, Ontario store, or have it delivered straight to your door when it's ready. Subscription plans are also available soon so you never have to worry about running out of food for your pet again.<br><br>Get started by shopping our wide selection of meats for your best friend today.</p>
+        
+                    <div>
+                        <button class="bg-yellow-600 hover:bg-blue-700 text-white py-2 px-4 rounded-full">Get Started</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="w-1/3 p-4 flex items-center justify-center">
+      <img src="https://img.freepik.com/free-photo/domestic-pet-food-composition_23-2148982342.jpg?w=2000" alt="Image description">
+    </div>
+    
+    <div class="w-1/3 p-4 flex flex-col text-white mt-20">
+        <div class="mb-10">
+            <h2 class="mb-5 text-xl text-yellow-600 font-bold">Pick-up in Store</h2>
+            <p>Order online and pick up in 1-3 business days at a convenient store location near you. </p>
+        </div>
+        <div class="mb-10">
+            <h2 class="mb-5 text-xl text-yellow-600 font-bold">Delivered to your Door</h2>
+            <p>Get scheduled delivery from our location, directly to your door. Delivery fees may apply.</p>
+        </div>
+        <div class="mb-10">
+            <h2 class="mb-5 text-xl text-yellow-600 font-bold">Subscription Plan</h2>
+            <p>You never need to worry about running out of your favourite foods again with a subscription plan.</p>
+        </div>
+    </div>
+
 </section>
