@@ -27,31 +27,31 @@
       </div>
           <div class="flex flex-col space-y-3 w-1/4 text-white">
               <h6 class="font-semibold font-heading text-xl mb-3">Company</h6>
-              <p>Home</p>
-              <p>About us</p>
-              <p>Contact us</p>
-              <p>Blog</p>
+              <p class="hover:text-yellow-700">Home</p>
+              <p class="hover:text-yellow-700">About us</p>
+              <p class="hover:text-yellow-700">Contact us</p>
+              <p class="hover:text-yellow-700">Blog</p>
           </div>
           <div class="flex flex-col space-y-3 w-1/4 text-white">
               <h6 class="font-semibold font-heading text-xl mb-3">Contact</h6>
-              <p>10768 Victoria Square Blvd, Markham, ON L6C 1J5</p>
-              <p>077 830 4064</p>
-              <p>udaraweerasuriya41@gmail.com</p>
+              <p class="hover:text-yellow-700">10768 Victoria Square Blvd, Markham, ON L6C 1J5</p>
+              <p class="hover:text-yellow-700">077 830 4064</p>
+              <p class="hover:text-yellow-700">udaraweerasuriya41@gmail.com</p>
             
           </div>
           <div class="flex flex-col space-y-3 w-1/4 text-white">
               <h6 class="font-semibold font-heading text-xl mb-3">Store Hours</h6>
-              <p>Mon & Tues- 8AM–6PM</p>
-              <p>Wednesday - 8AM–7PM</p>
-              <p>Thursday - 8AM–6PM</p>
-              <p>Friday - 8AM–7PM</p>
-              <p>Saturday - 8AM 5PM</p>
-              <p>Sunday - Closed</p>
+              <p class="hover:text-yellow-700">Mon & Tues- 8AM–6PM</p>
+              <p class="hover:text-yellow-700">Wednesday - 8AM–7PM</p>
+              <p class="hover:text-yellow-700">Thursday - 8AM–6PM</p>
+              <p class="hover:text-yellow-700">Friday - 8AM–7PM</p>
+              <p class="hover:text-yellow-700">Saturday - 8AM 5PM</p>
+              <p class="hover:text-yellow-700">Sunday - Closed</p>
           </div>
           <div class="flex flex-col space-y-3 w-1/4 text-white">
               <h6 class="font-semibold font-heading text-xl mb-3">Resorces</h6>
-              <p>Privacy</p>
-              <p>Terms & Conditions</p>   
+              <p class="hover:text-yellow-700">Privacy</p>
+              <p class="hover:text-yellow-700">Terms & Conditions</p>   
           </div>
     </div>
 </footer>
