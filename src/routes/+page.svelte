@@ -102,7 +102,7 @@
         <img class="w-full h-full object-cover" src="https://post.healthline.com/wp-content/uploads/2020/06/dog-food-732x549-thumbnail-732x549.jpg" />
 
         <div class="p-5 flex flex-row gap-3">
-            <h2 class="product-title" title="best headphone ever">
+            <h2 class="product-title" title="most popular feasts">
                 Chicken Trim – <br>Ground (Fresh) – <br>5lb Bag
             </h2>
             <div>
@@ -122,7 +122,7 @@
         <img class="w-full h-full object-cover" src="https://post.healthline.com/wp-content/uploads/2020/06/dog-food-732x549-thumbnail-732x549.jpg" />
 
         <div class="p-5 flex flex-row gap-3">
-            <h2 class="product-title" title="best headphone ever">
+            <h2 class="product-title" title="most popular feasts">
                 Chicken Trim – <br>Ground (Fresh) – <br>5lb Bag
             </h2>
             <div>
@@ -143,7 +143,7 @@
 
         <div class="p-5 flex flex-row gap-3">
             
-            <h2 class="product-title" title="best headphone ever">
+            <h2 class="product-title" title="most popular feasts">
                 Chicken Trim – <br>Ground (Fresh) – <br>5lb Bag
             </h2>
             <div>
@@ -166,7 +166,7 @@
         <img class="w-full h-full object-cover" src="https://post.healthline.com/wp-content/uploads/2020/06/dog-food-732x549-thumbnail-732x549.jpg" />
 
         <div class="p-5 flex flex-row gap-3">
-            <h2 class="product-title" title="best headphone ever">
+            <h2 class="product-title" title="most popular feasts">
                 Chicken Trim – <br>Ground (Fresh) – <br>5lb Bag
             </h2>
             <div>
@@ -186,7 +186,7 @@
         <img class="w-full h-full object-cover" src="https://post.healthline.com/wp-content/uploads/2020/06/dog-food-732x549-thumbnail-732x549.jpg" />
 
         <div class="p-5 flex flex-row gap-3">
-            <h2 class="product-title" title="best headphone ever">
+            <h2 class="product-title" title="most popular feasts">
                 Chicken Trim – <br>Ground (Fresh) – <br>5lb Bag
             </h2>
             <div>
@@ -206,7 +206,7 @@
         <img class="w-full h-full object-cover" src="https://post.healthline.com/wp-content/uploads/2020/06/dog-food-732x549-thumbnail-732x549.jpg" />
 
         <div class="p-5 flex flex-row gap-3">
-            <h2 class="product-title" title="best headphone ever">
+            <h2 class="product-title" title="most popular feasts">
                 Chicken Trim – <br>Ground (Fresh) – <br>5lb Bag
             </h2>
             <div>
@@ -226,7 +226,7 @@
         <img class="w-full h-full object-cover" src="https://post.healthline.com/wp-content/uploads/2020/06/dog-food-732x549-thumbnail-732x549.jpg" />
 
         <div class="p-5 flex flex-row gap-3">
-            <h2 class="product-title" title="best headphone ever">
+            <h2 class="product-title" title="most popular feasts">
                 Chicken Trim – <br>Ground (Fresh) – <br>5lb Bag
             </h2>
             <div>
