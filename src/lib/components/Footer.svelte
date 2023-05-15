@@ -1,7 +1,7 @@
 <div class="overflow-hidden pb-5">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7926.245129068641!2d79.85336762775762!3d6.921295062432384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259e91b0f9869%3A0x49af8f3e7790836c!2sColombo%2C%20Sri%20Lanka!5e0!3m2!1sen!2sus!4v1620638268565!5m2!1sen!2sus"  class="w-full h-96"></iframe>
 </div>
-    <div class="relative bg-cover bg-center h-screen" style="background-image: url('https://cdn.sanity.io/images/0vv8moc6/dvm360/0d51a75379a3525815b0517d4f7472c2917a791f-1920x1080.png')">
+    <div class="relative bg-cover bg-center h-screen bg-fixed" style="background-image: url('https://cdn.sanity.io/images/0vv8moc6/dvm360/0d51a75379a3525815b0517d4f7472c2917a791f-1920x1080.png')">
         <div class="absolute top-0 right-0 mt-40 mr-8 z-50 ">
           <div class="bg-yellow-600 shadow-lg px-6 py-4 pr-40 pl-20 pb-20 pt-20">
             <h2 class="text-lg mb-4 text-white">Join Our Community</h2>
