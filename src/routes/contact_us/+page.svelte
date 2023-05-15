@@ -22,7 +22,7 @@
           </div>
           <div class="mb-4">
             
-            <input class="appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="name" type="text" placeholder="Website" bind:value={formData.website}>
+            <input class="appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="website" type="text" placeholder="Website" bind:value={formData.website}>
           </div>
           <div class="mb-4">
             
